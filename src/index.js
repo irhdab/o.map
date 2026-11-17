@@ -28,7 +28,7 @@ import * as turf from "@turf/turf";
 import { v4 as uuidv4 } from "uuid";
 import "leaflet-rotatedmarker";
 
-import { createElement, Files, Upload } from "lucide";
+import { createElement, Files } from "lucide";
 
 import longpress from "long-press-event";
 
@@ -43,7 +43,6 @@ import {
   Settings,
   Upload,
   List,
-  Navigation,
   Contact,
   Book,
   Clock,
